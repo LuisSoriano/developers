@@ -238,7 +238,7 @@ img {
 
 .header {
 	background: #222222;
-	border-bottom: 5px solid #f5c34c;
+	border-bottom: 5px solid #018f0d;
 }
 
 .logo {
@@ -267,7 +267,7 @@ img {
 
 .top-nav li.active>a,
 .top-nav li>a:hover {
-	color: #FFC809;
+	color: #3f5700;
 	background: url(../images/marker.png) 50% 100%no-repeat;
 }
 
@@ -277,7 +277,7 @@ img {
 .top-grids {
 	padding: 4.5em 0;
 	font-family: 'Open Sans', sans-serif;
-	background: url(../images/car.png) no-repeat 78% 71% #f5c34c;
+	background: url(../images/car.png) no-repeat 78% 71% #018f0d;
 }
 
 .top-grids h3 {
@@ -365,7 +365,7 @@ img {
 }
 
 .mid-grid h4 {
-	color: #99834D;
+	color: #018f0d;
 	font-size: 1.5em;
 	font-family: 'Open Sans', sans-serif;
 	padding: 0.5em 0;
@@ -390,7 +390,7 @@ img {
 }
 
 .button:hover {
-	color: #f5c34c;
+	color: #018f0d;
 }
 
 .services {
@@ -412,7 +412,7 @@ img {
 
 .bottom-grids {
 	padding: 5em 0 4em 0;
-	background: #f5c34c;
+	background: #018f0d;
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
 }
@@ -524,7 +524,7 @@ img {
 }
 
 .about-info a:hover {
-	color: #f5c34c;
+	color: #018f0d;
 }
 
 .about-info p {
@@ -576,7 +576,7 @@ img {
 }
 
 .special-grid a:hover {
-	color: #f5c34c;
+	color: #018f0d;
 }
 
 .special-grid p {
@@ -633,7 +633,7 @@ img {
 	font-size: 0.875em;
 	font-size: 1.2em;
 	font-family: 'Open Sans', sans-serif;
-	color: #f5c34c;
+	color: #018f0d;
 }
 
 .testmonials {
@@ -684,7 +684,7 @@ img {
 }
 
 .gallery-button a:hover {
-	background: #f5c34c;
+	background: #018f0d;
 	color: #FFF;
 }
 
@@ -720,7 +720,7 @@ img {
 
 .projects-bottom-paination li.active>a,
 .projects-bottom-paination li>a:hover {
-	background: #f5c34c;
+	background: #018f0d;
 	color: #fff;
 }
 
@@ -740,7 +740,7 @@ img {
 }
 
 .gallery-grid h4:hover {
-	color: #f5c34c;
+	color: #018f0d;
 }
 
 
@@ -826,7 +826,7 @@ img {
 }
 
 .images_1_of_5 .button a:hover {
-	background: #f5c34c;
+	background: #018f0d;
 	color: #FFF;
 }
 
@@ -949,12 +949,12 @@ img {
 }
 
 .contact-form input[type="submit"]:hover {
-	background: #f5c34c;
+	background: #018f0d;
 	color: #FFF;
 }
 
 .contact-form input[type="submit"]:active {
-	background: #f5c34c;
+	background: #018f0d;
 	color: #FFF;
 }
 
@@ -1086,7 +1086,7 @@ img {
 		font-size: 7em;
 	}
 	.top-grids {
-		background: url(../images/car.png) no-repeat 84% 71% #f5c34c;
+		background: url(../images/car.png) no-repeat 84% 71% #018f0d;
 	}
 	.gallery-grid {
 		width: 31.3%;
@@ -1142,7 +1142,7 @@ img {
 	}
 	.top-grids {
 		padding: 4em 0 5em 0;
-		background: url(../images/car.png) no-repeat 91% 65% #f5c34c;
+		background: url(../images/car.png) no-repeat 91% 65% #018f0d;
 	}
 	.gallery-grid {
 		width: 30%;
@@ -1233,7 +1233,7 @@ img {
 	}
 	.top-grids {
 		padding: 3em 0 5em 0;
-		background: url(../images/car.png) no-repeat 91% 65% #f5c34c;
+		background: url(../images/car.png) no-repeat 91% 65% #018f0d;
 	}
 	.gallery-grid {
 		width: 29%;
@@ -1406,7 +1406,7 @@ img {
 		height: 330px!important;
 	}
 	.top-grids {
-		background: url(../images/car.png) no-repeat 102% 70% #f5c34c;
+		background: url(../images/car.png) no-repeat 102% 70% #018f0d;
 	}
 	.mid-grid h3 {
 		font-size: 1.8em;
